@@ -8,9 +8,9 @@ To enable dissecting in Wireshark copy one of the following `.lua` script into `
 
 ## List
 
-+ `51x0`: [goodix_dissector.lua](goodix_dissector.lua)
-+ `51x7`: [goodix_dissector.lua](goodix_dissector.lua)
-+ `52xd`: [goodix_dissector.lua](goodix_dissector.lua)
-+ `53x5`: [wrapless_goodix_dissector.lua](wrapless_goodix_dissector.lua)
-+ `53xd`: [goodix_dissector.lua](goodix_dissector.lua)
-+ `55x4`: [goodix_dissector.lua](goodix_dissector.lua)
++ [51x0](51x0.lua)
++ [51x7](51x7.lua)
++ [52xd](52xd.lua)
++ [53x5](53x5.lua)
++ [53xd](53xd.lua)
++ [55x4](55x4.lua)
